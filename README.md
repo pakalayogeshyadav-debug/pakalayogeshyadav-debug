@@ -2,7 +2,7 @@
 
 I'm an Electronics and Communication Engineering student at SRM Institute of Science and Technology, Ramapuram, working towards a career in Data Engineering.
 
-I enjoy building projects that involve data pipelines, SQL, Python, and cloud technologies. My goal is to understand how data moves through systems—from collection and transformation to storage and analytics—and apply those concepts in practical projects.
+I enjoy building projects that involve data pipelines, SQL, Python, and cloud technologies. My goal is to understand how data moves through systems from collection and transformation to storage and analytics and apply those concepts in practical projects.
 
 Most of the repositories here are part of my learning journey. I focus on writing clean, well-documented code and building projects that solve real problems instead of simply following tutorials.
 
