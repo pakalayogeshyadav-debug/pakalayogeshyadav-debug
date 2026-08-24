@@ -62,11 +62,6 @@ Python scripts for data extraction, transformation, cleaning, automation, and fi
 - Contribute to open-source projects
 - Secure a Data Engineering internship
 
-## Connect
-
-LinkedIn: https://linkedin.com/in/your-profile
-
-Email: your-email@example.com
 
 <!--
 **pakalayogeshyadav-debug/pakalayogeshyadav-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
